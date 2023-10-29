@@ -1,6 +1,6 @@
 ![image](ArnauCiriquianWave.jpg)
 
-<h1 align="center">Dive into my code ocean!<br>
+<h1 align="center">Dive into my ocean of code!<br>
 I'm Arnau Ciriquián, crafting digital adventures for web and mobile!</h1>
 
 
