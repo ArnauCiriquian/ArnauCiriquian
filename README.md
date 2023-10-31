@@ -16,4 +16,4 @@ I'm Arnau Ciriquián, crafting digital adventures for web and mobile!</h1>
 <p align="center">    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,mongodb,nodejs,threejs,figma,git,github,vscode,vite,py" />
 
 <h3 align="left">Now learning:</h3>
-<p align="center">    <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio,docker" />
+<p align="center">    <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio,docker,mysql" />
